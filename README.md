@@ -6,3 +6,5 @@ i swear lust one
 this is just for training
 ##How to contribute
 please i just want to stop it 
+###copyright 
+git.training.2021
