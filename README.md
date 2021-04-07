@@ -1,5 +1,6 @@
 # Starter Web Project
 this a simple website which tests the git
+adding aline for rebasing exampe
 ##introduction
 i swear lust one
 ## Deployment
